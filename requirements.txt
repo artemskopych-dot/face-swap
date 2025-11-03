@@ -1,0 +1,6 @@
+﻿fastapi
+uvicorn
+openai
+opencv-python
+numpy
+requests
