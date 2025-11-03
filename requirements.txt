@@ -4,3 +4,4 @@ openai
 opencv-python
 numpy
 requests
+python-multipart
